@@ -1,14 +1,14 @@
 export const sliderItems = [
   {
     id: 1,
-    img: "https://st.depositphotos.com/1057689/4948/i/950/depositphotos_49488665-stock-photo-islamic-calligraphy.jpg",
+    img: "https://mahref.com/wp-content/uploads/2015/10/3names-framed.png",
     title: "SALE",
     desc: "DON'T COMPROMISE ON QUALITY! GET FLAT 30% OFFER",
     bg: "f5fafd",
   },
   {
     id: 2,
-    img: "https://mahref.com/wp-content/uploads/2015/10/3names-framed.png",
+    img: "https://st.depositphotos.com/1057689/4948/i/950/depositphotos_49488665-stock-photo-islamic-calligraphy.jpg",
     title: "COLLECTION",
     desc: "DON'T COMPROMISE ON QUALITY! GET FLAT 30% OFFER",
     bg: "fcf1ed",
@@ -25,18 +25,18 @@ export const sliderItems = [
 export const categories = [
   {
     id: 1,
-    img: "https://images.pexels.com/photos/5886041/pexels-photo-5886041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    title: "SHIRT STYLE!",
+    img: "https://image.shutterstock.com/image-illustration/arabic-calligraphy-verse-quran-on-600w-1923482831.jpg",
+    title: "FRAMED ART",
   },
   {
     id: 2,
-    img: "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    title: "LOUNGEWEAR LOVE",
+    img: "https://st.depositphotos.com/2737297/4866/v/950/depositphotos_48660107-stock-illustration-arabic-figure-and-dervish.jpg",
+    title: "CANVAS",
   },
   {
     id: 3,
-    img: "https://images.pexels.com/photos/5480696/pexels-photo-5480696.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-    title: "LIGHT JACKETS",
+    img: "https://image.shutterstock.com/image-vector/all-praise-be-god-al-600w-606899960.jpg",
+    title: "POSTER",
   },
 ];
 

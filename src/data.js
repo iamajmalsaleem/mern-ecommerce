@@ -43,34 +43,35 @@ export const categories = [
 export const popularProducts = [
   {
     id: 1,
-    img: "https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
+    img: "https://image.shutterstock.com/image-vector/vector-arabic-quran-calligraphy-art-600w-1896762784.jpg",
   },
   {
     id: 2,
-    img: "https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
+    img: "https://st3.depositphotos.com/10820222/14366/v/1600/depositphotos_143663123-stock-illustration-name-of-god-of-islam.jpg",
   },
   {
     id: 3,
-    img: "https://www.prada.com/content/dam/pradanux_products/U/UCS/UCS319/1YOTF010O/UCS319_1YOT_F010O_S_182_SLF.png",
+    img: "https://image.shutterstock.com/image-vector/illustration-eid-mubarak-aid-said-600w-1156635274.jpg",
+
   },
   {
     id: 4,
-    img: "https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
+    img: "https://image.shutterstock.com/image-vector/vector-words-recite-name-your-600w-606902264.jpg",
   },
   {
     id: 5,
-    img: "https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
+    img: "https://image.shutterstock.com/image-vector/decorative-calligraphy-chess-knight-symbol-600w-1375528289.jpg",
   },
   {
     id: 6,
-    img: "https://d3o2e4jr3mxnm3.cloudfront.net/Rocket-Vintage-Chill-Cap_66374_1_lg.png",
+    img: "https://image.shutterstock.com/image-vector/ramadan-kareem-arabic-islamic-vector-600w-1329983882.jpg",
   },
   {
     id: 7,
-    img: "https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+    img: "https://st3.depositphotos.com/6764546/14674/v/1600/depositphotos_146740933-stock-illustration-vector-arabic-calligraphy-translation-there.jpg",
   },
   {
     id: 8,
-    img: "https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
+    img: "https://st2.depositphotos.com/53293690/47958/v/1600/depositphotos_479585028-stock-illustration-eid-mubarak-arabic-calligraphy-islamic.jpg",
   },
 ];

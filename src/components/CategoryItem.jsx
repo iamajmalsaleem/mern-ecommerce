@@ -5,6 +5,14 @@ const Container = styled.div`
   margin: 3%;
   height: 70vh;
   position: relative;
+  transition: transform 0.4s;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  &:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+    box-shadow: 0 4px 8px 0 rgb(128, 161, 159), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  /* hover:scale-105; transition transform duration-300 ease-out */
 `;
 
 const Image = styled.img`

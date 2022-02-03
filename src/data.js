@@ -16,7 +16,7 @@ export const sliderItems = [
   {
     id: 3,
     img: "https://st.depositphotos.com/1057689/4948/i/950/depositphotos_49488799-stock-photo-islamic-calligraphy.jpg",
-    title: "LOVE",
+    title: "QUALITY",
     desc: "DON'T COMPROMISE ON QUALITY! GET FLAT 30% OFFER",
     bg: "fbf0f4",
   },
